@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T10:49:05.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="12UucdMBv6S_pcPhG0cP" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T10:50:21.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="OlL5gMnwoUjlpjFwreCr" version="15.9.4" type="github">
   <diagram id="M8didi33IB_jT4ri6UF5" name="Page-1">
-    <mxGraphModel dx="1268" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1177" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,9 +135,6 @@
         </mxCell>
         <mxCell id="qvZsWejLE9gdz4TRBkXJ-45" value="CodeCommit" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.codecommit;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="391.75" y="-573" width="76.5" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="qvZsWejLE9gdz4TRBkXJ-46" value="bitbucket" style="image;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="401.5" y="-387" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qvZsWejLE9gdz4TRBkXJ-47" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;align=center;verticalAlign=top;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="740" y="-610" width="160" height="200" as="geometry" />
