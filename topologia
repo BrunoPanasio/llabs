@@ -1,5 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T21:52:44.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="LD8zgbMjuORXErYz9_Eo" version="15.9.4" type="github" pages="2">
-  <diagram id="M8didi33IB_jT4ri6UF5" name="apps">
+<mxfile host="app.diagrams.net" modified="2021-12-13T21:58:03.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="TSPYw98_PL7b-JD_Xfh7" version="15.9.4" type="github" pages="2">
+  <diagram id="7WO3J1GoFWSLc6TC0KzG" name="Etapa2">
+    <mxGraphModel dx="824" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="IeOSnRHDARaMFUShpYg_-0" />
+        <mxCell id="IeOSnRHDARaMFUShpYg_-1" parent="IeOSnRHDARaMFUShpYg_-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="M8didi33IB_jT4ri6UF5" name="Etapa1">
     <mxGraphModel dx="2498" dy="2132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -149,14 +157,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="7WO3J1GoFWSLc6TC0KzG" name="TopologiaCC">
-    <mxGraphModel dx="824" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="IeOSnRHDARaMFUShpYg_-0" />
-        <mxCell id="IeOSnRHDARaMFUShpYg_-1" parent="IeOSnRHDARaMFUShpYg_-0" />
       </root>
     </mxGraphModel>
   </diagram>
