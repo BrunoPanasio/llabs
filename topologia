@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T10:58:19.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="xdcWnj9zsB3ZNoMbds3X" version="15.9.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-14T11:00:58.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="nQIM1WVKYS-8pjGvOFEZ" version="15.9.4" type="github" pages="2">
   <diagram id="7WO3J1GoFWSLc6TC0KzG" name="Etapa2">
-    <mxGraphModel dx="3587" dy="2977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4043" dy="3290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IeOSnRHDARaMFUShpYg_-0" />
         <mxCell id="IeOSnRHDARaMFUShpYg_-1" parent="IeOSnRHDARaMFUShpYg_-0" />
@@ -785,6 +785,9 @@
               <mxPoint x="940" y="100" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="slL35PZIvwPVusRnm19K-254" value="Golden Jumper" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=22;strokeWidth=8;rotation=45;" vertex="1" parent="IeOSnRHDARaMFUShpYg_-1">
+          <mxGeometry x="1296.6200000000001" y="-50.120000000000005" width="92.93" height="118.49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
