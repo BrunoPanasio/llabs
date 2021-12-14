@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T10:46:56.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="NvdOuCvIneMwZSfULmUB" version="15.9.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-14T10:47:42.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Jc2t3opjL1K_VyoWLOQy" version="15.9.4" type="github" pages="2">
   <diagram id="7WO3J1GoFWSLc6TC0KzG" name="Etapa2">
-    <mxGraphModel dx="2447" dy="2195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3587" dy="2977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IeOSnRHDARaMFUShpYg_-0" />
         <mxCell id="IeOSnRHDARaMFUShpYg_-1" parent="IeOSnRHDARaMFUShpYg_-0" />
@@ -669,6 +669,9 @@
         </mxCell>
         <mxCell id="slL35PZIvwPVusRnm19K-238" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;labelBackgroundColor=#FFFFFF;fontSize=26;strokeWidth=2;gradientColor=#E6E6E6;" vertex="1" parent="IeOSnRHDARaMFUShpYg_-1">
           <mxGeometry x="-655" y="290" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="slL35PZIvwPVusRnm19K-239" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;labelBackgroundColor=#FFFFFF;fontSize=26;strokeWidth=2;gradientColor=#E6E6E6;" vertex="1" parent="IeOSnRHDARaMFUShpYg_-1">
+          <mxGeometry x="345" y="-40.08" width="30" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
